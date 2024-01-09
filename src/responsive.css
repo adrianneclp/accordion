@@ -1,0 +1,38 @@
+@media (max-width: 540px){
+
+    .conteudo{
+        width: 400px;
+        height: 400px;
+        display: flex;
+        flex-direction:row;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .imagem img{
+        width: 150px;
+        height: 150px;
+        text-align:center;
+        margin-top: -150px;
+        margin-left: 180px;
+        
+    }
+
+    .perguntas-e-respostas{
+        text-align:left;
+        margin-left: -250px;
+        width: 300px;
+    }
+
+    h3{
+        font-size: 8px;
+    }
+
+    p{
+        font-size: 5px;
+    }
+
+    .faq{
+        text-align: center;
+    }
+}
